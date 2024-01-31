@@ -1,5 +1,4 @@
 import streamlit as st
-import ipyleaflet
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 st.set_option('deprecation.showPyplotGlobalUse', False)
