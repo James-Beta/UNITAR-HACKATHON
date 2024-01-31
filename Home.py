@@ -1,11 +1,3 @@
-import streamlit as st
-from streamlit_folium import st_folium
-import ipyleaflet
-from ipyleaflet import *
-import folium
-from folium import plugins
-
-import geopandas
 # -- Set page config
 apptitle = 'Bether Youth'
 
