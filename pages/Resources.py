@@ -39,7 +39,7 @@ with tab2:
    st.header("Data & AI")
    st.image("AI.jpg")
    st.write("Data and AI: The Powerhouse Drivers of the Modern World Data. Think of it as the digital age's raw material. Every click, purchase, sensor reading, and social media post generates data, creating a vast ocean of information waiting to be explored. But just like oil, raw data isn't directly useful. That's where AI comes in, acting as the refinery, transforming data into actionable insights and powerful tools.")
-   st.subheader('Why wouldn't you consider a career in Data & AI?')
+   st.subheader("Why wouldn't you consider a career in Data & AI?")
    st.write("Data and AI aren't just buzzwords; they're reshaping every aspect of our lives. From tailoring your Netflix recommendations to predicting pandemics, from revolutionizing healthcare to powering self-driving cars, the impact of data and AI is immense and ever-growing.")
    st.write("The need for skilled data and AI professionals is skyrocketing across various industries. From tech giants to startups, everyone's scrambling for talent, leading to exciting job opportunities and excellent career prospects.")
    st.write(" It's a dynamic field constantly evolving with new discoveries and challenges. You'll need problem-solving skills, analytical thinking, and even a touch of creativity to make sense of the data and build impactful AI solutions.")
